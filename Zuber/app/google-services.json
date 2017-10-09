@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "308038565072",
+    "firebase_url": "https://zuber-fad5e.firebaseio.com",
+    "project_id": "zuber-fad5e",
+    "storage_bucket": "zuber-fad5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308038565072:android:cbbf9e74da7172c1",
+        "android_client_info": {
+          "package_name": "com.coder.zuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308038565072-ptl1gemq3brqvm3qgjmt12ji276rr4j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coder.zuber",
+            "certificate_hash": "069fd769d09bf1012af55b06a3b8bf7f6e45f672"
+          }
+        },
+        {
+          "client_id": "308038565072-d739ef7d20ffrqpdnv7vs2j3116tjc37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS-cVSvduk8F5Zv9DcL1xVPq5ef9gNss4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308038565072-d739ef7d20ffrqpdnv7vs2j3116tjc37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
